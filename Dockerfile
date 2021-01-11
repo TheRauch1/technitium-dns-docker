@@ -1,4 +1,4 @@
-FROM mcr.microsoft.com/dotnet/core/aspnet
+FROM mcr.microsoft.com/dotnet/aspnet
 
 WORKDIR /App
 
